@@ -16,6 +16,7 @@
     "removeComments": true,
     "rootDir": "./src",
     "skipLibCheck": true,
+    "inlineSources": true,
     "sourceMap": true,
     "strict": true,
     "target": "ES2022"
