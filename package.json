@@ -2,7 +2,7 @@
 	"name": "@turystack/query-dsl",
 	"description": "Zod schemas and serializers for type-safe HTTP query parameters.",
 	"private": false,
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"type": "module",
 	"packageManager": "pnpm@10.12.3",
 	"sideEffects": false,
